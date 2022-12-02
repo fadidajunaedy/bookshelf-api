@@ -1,0 +1,1 @@
+Bookshelf API merupakan sebuah Restful API sederhana berdasarkan framework Hapi yang dibuat untuk menyelesaikan submission di Dicoding Academy pada Kelas Belajar Membuat Aplikasi Back-End Untuk Pemula.
